@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.Adactin_runner.Test_Runner
+-------------------------------------------------------------------------------
+Tests run: 41, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 53.243 s <<< FAILURE! - in com.Adactin_runner.Test_Runner
+com.Adactin_runner.Test_Runner  Time elapsed: 5.035 s  <<< ERROR!
+java.lang.IllegalMonitorStateException
+	at com.Adactin_runner.Test_Runner.tearDown(Test_Runner.java:40)
+
